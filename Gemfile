@@ -11,7 +11,7 @@ group :development do
 end
 
 group :production do
-	grm 'pg'
+	gem 'pg'
 end
 
 # Use SCSS for stylesheets
